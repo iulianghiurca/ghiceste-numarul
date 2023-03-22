@@ -1,0 +1,2 @@
+# ghiceste-numarul
+pentru mine
